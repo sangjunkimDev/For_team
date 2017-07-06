@@ -2,6 +2,7 @@ package kdata.manager;
 
 import java.util.Scanner;
 
+
 public class StudentManagerTest {
 
 	public static void main(String[] args) {
