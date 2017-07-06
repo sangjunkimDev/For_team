@@ -7,6 +7,9 @@ public class Student implements Comparable<Student>{
 	private int kor;
 	private int math;
 	private int eng;
+	fffffffff
+	
+	
 	
 	public Student(int num, String name) {
 		super();
