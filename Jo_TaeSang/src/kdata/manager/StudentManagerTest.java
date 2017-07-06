@@ -6,6 +6,7 @@ import java.util.stream.Stream;
 public class StudentManagerTest {
 
 	public static void main(String[] args) {
+		int a;
 		//1. 학생정보 추가
 		//2. 학생 리스트 이름으로 오름차순
 		//3. 검색
@@ -16,7 +17,6 @@ public class StudentManagerTest {
 		//8. 종료
 		
 		//managerClass에서 출력문 제거하도록 mvc
-		
 		
 
 		// TODO Auto-generated method stub
