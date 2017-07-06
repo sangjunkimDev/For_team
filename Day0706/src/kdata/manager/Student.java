@@ -8,6 +8,8 @@ public class Student {
 	@Override
 	public String toString() {
 		return "Student [snum=" + snum + ", sname=" + sname + ", sex=" + sex + "]";
+		
+		
 	}
 
 	public String getSnum() {
